@@ -23,7 +23,7 @@ The WeatherMan App is a simple web application built with React that allows user
 6. The app will display the weather, time, and continent information.
 
 ## Technologies Used
-
+-React-Toastify
 - React
 - JavaScript
 - weatherapi.com API
