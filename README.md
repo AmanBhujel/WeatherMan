@@ -30,4 +30,5 @@ The WeatherMan App is a simple web application built with React that allows user
 - weatherapi.com API
 
 
+![Weather](https://github.com/AmanBhujel/WeatherMan/assets/132144406/14da5dab-ec03-4725-b851-5ff9de62bfe4)
 
